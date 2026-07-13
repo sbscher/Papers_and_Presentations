@@ -27,7 +27,7 @@ CSS for xaringan slides in RU flavor by Joseph V. Casillas
 /* Package defaults that we slightly tweak */
 
 a, a > code {
-  color: #74799B; /* rgb(139, 134, 100) */
+  color: #145F7D; /* rgb(139, 134, 100) */
   text-decoration: none;
 }
 
@@ -46,7 +46,7 @@ a, a > code {
 
 /* color tweak */
 .inverse {
-  background-color: #74799B;
+  background-color: #145F7D;
   color: #FFFFFF;
 }
 
@@ -155,7 +155,7 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 
 /* H2 fonts */
 .title-slide h2 {
-  color: #74799B;
+  color: #145F7D;
   font-size: 35px;
   text-align: left;
   text-shadow: none;
@@ -239,7 +239,7 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 
 /* Make bold syntax compile to RU-red */
 strong {
-  color: #74799B;
+  color: #145F7D;
 }
 
 .BIgreen{
@@ -278,7 +278,7 @@ strong {
 
 /* Color adjustments to headers */
 h1 {
-  color: #74799B;
+  color: #145F7D;
 }
 
 h3 {
@@ -330,7 +330,7 @@ content: "";
 /* For the navbar enviorment */
 
 .navbar {
-  background-color: #74799B;
+  background-color: #145F7D;
   border-radius: 2px;
   max-width: 800px;
 }
